@@ -17,6 +17,7 @@ then start the client.py
 it will ask you for two pieces of information.
 
 Enter the local IP of the host server: ``*enter the ip of the host*``
+
 Enter a name for this client: ``*enter a name for the client, it will be displayed on the host*``
 
 then it'll update the sys info every 15 seconds, sending it to the host.
