@@ -24,5 +24,7 @@ then it'll update the sys info every 15 seconds, sending it to the host.
 ### Current problem:
 
 Host website doesnt update automatically, have to relaod it to see current information.
+
 bad looking web-gui
+
 hard to use for non tech ppl
