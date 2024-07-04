@@ -12,7 +12,7 @@ execute the pip install commands from the ``requirements-lol.txt``
 then, go to your host machine, it can be a full server or even a raspberry pi.
 just start the host.py on there, write down its ip adress and open port 5000 in the local network so that the client can reach it.
 
-onyl after the host has been setup, go to a client machine.
+only after the host has been setup, go to a client machine.
 then start the client.py
 it will ask you for two pieces of information.
 
