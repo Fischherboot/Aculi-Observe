@@ -1,5 +1,6 @@
 ![download.png](https://raw.githubusercontent.com/Fischherboot/Aculi/main/watermark-no-bg.png)
 
+# V.2 BROKEN, UNKNOWN WHY!
 # Aculi Observe
 
 This is a programm for my homelab, but you can use it if you want!
